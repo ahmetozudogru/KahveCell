@@ -222,4 +222,4 @@ npm run build
 
 ## Lisans
 
-<!-- TODO: lisans seç -->
+Bu depo şu anda özel bir lisans dosyası içermemektedir; eğitim ve deneme amaçlı paylaşılmıştır.
