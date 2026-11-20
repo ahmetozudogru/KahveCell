@@ -1,0 +1,26 @@
+# Local environment, credentials, and databases
+.env
+.env.*
+!.env.example
+**/.jwt_secret
+**/*.db
+**/*.db-*
+
+# Generated and installed files
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/node_modules/
+**/dist/
+**/dist-ssr/
+*.log
+
+# Local editor files
+.vscode/*
+.idea/
+.DS_Store
+
+# Case materials are not part of the application repository
+/KahveCell_Case_Analiz_Dokumani.docx
+/KahveCell_Case_Analiz_Dokumani.pdf
+/KahveCell_VibeCoding_Prompt_Rehberi_OGRENCI.pdf
