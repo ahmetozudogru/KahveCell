@@ -2,6 +2,10 @@
 
 KahveCell, kahve dükkânlarını keşfetme, içecekleri kişiselleştirerek sipariş verme ve siparişi QR koduyla teslim alma akışlarını bir araya getiren örnek bir web uygulamasıdır.
 
+## Proje hakkında
+
+KahveCell, benim ürün fikrim ve yönlendirmemle yapay zekâ destekli vibe coding süreci kullanılarak oluşturuldu. Uygulamanın kodlarını tek başıma yazmadım; projeyi yapay zekâ ile birlikte adım adım geliştirdim.
+
 ## Ekran görüntüleri
 
 | Ana sayfa | Dükkânlar |
